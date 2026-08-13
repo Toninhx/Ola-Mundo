@@ -1,4 +1,6 @@
 # Olá, Mundo
 Primeiro repositório de curso de Git e GitHub
 
-Crie para test.
+Criei para test.
+
+Essa linha alteirei diretamente do GitHub.
